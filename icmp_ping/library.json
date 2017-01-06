@@ -1,0 +1,21 @@
+{
+"name": "icmp_ping",
+"frameworks": "Arduino",
+"keywords": "icmp, bus, ethernet",
+"description": "Ethernet Ping Library",
+"authors":
+[
+    { 
+        "name": "Blake Foster",
+        "email": "blfoster@vassar.edu",
+        "url": "http://vassar.edu",
+        "maintainer": true
+    },
+  
+],
+"repository":
+{
+    "type": "git",
+    "url": "https://github.com/BlakeFoster/Arduino-Ping"
+}
+}
